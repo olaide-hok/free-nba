@@ -1,0 +1,10 @@
+an api call that returns all the players
+takes in a team name as a parameter
+
+loops through all the players
+
+checks if the player plays for the team 
+
+pushes the players name into a new array
+
+returns the new array
